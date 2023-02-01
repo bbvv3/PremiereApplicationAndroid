@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroKado</string>
+    <string name="aberration">Article</string>
+    <string name="aber_prix">25.0€</string>
+    <string name="aber_desc">description</string>
+    <string name="bouton2">Achète</string>
+    <string name="bouton1">Search</string>
+    <string name="article">Articles</string>
+    <string name="defaultUrl">www.defaultUrl.com</string>
+    <string name="degreEnvie">degre envie</string>
+    <string name="ajout">Ajout</string>
+    <string name="config">Configuration</string>
+    <string name="share">Partage</string>
+    <string name="labelTri">Tri par prix</string>
+    <string name="labeldefaut">Prix par défaut</string>
+    <string name="placeholder_prix">prix</string>
+    <string name="label_nom">Nom</string>
+    <string name="label_description">Description</string>
+    <string name="label_url">URL</string>
+    <string name="label_prix">Prix</string>
+    <string name="label_degre_envie">Degré d\'envie</string>
+    <string name="titre_nouvel_article">Nouvel Article</string>
+    <string name="nom_contact" >Prenom NOM</string>
+    <string name="tel_contact">+33 X XX XX XX XX</string>
+</resources>
